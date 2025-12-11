@@ -13,7 +13,6 @@ THREE TABLES:
 3. Full sample - household average characteristics
 
 SAMPLE: Single mother household heads (jefe==1 & hh_madre_soltera_rob_2020==1)
-TIME PERIOD: 2020, quarters 2-4
 *******************************************************************************/
 
 clear all
